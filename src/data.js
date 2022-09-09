@@ -34,3 +34,11 @@ export const projects = [
 ];
 
 export const skills = ["java", "Many"];
+
+export const testimonials = [  {
+  quote: "Epic Todo App",
+  name: "React Hooks",
+  image: "./project4.gif",
+  company: "htt",
+},
+];
